@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "274423674186",
+    "project_id": "drive-6034d",
+    "storage_bucket": "drive-6034d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274423674186:android:1355cc39d6514194bc7db3",
+        "android_client_info": {
+          "package_name": "com.example.drivermoving2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrOJ_bXCCMi_HyaHJWT-bl-F1jkFBGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274423674186:android:28ab7aa5458863b1bc7db3",
+        "android_client_info": {
+          "package_name": "com.example.drivermovisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrOJ_bXCCMi_HyaHJWT-bl-F1jkFBGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274423674186:android:7281b9f5b59327e9bc7db3",
+        "android_client_info": {
+          "package_name": "com.example.google_mao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrOJ_bXCCMi_HyaHJWT-bl-F1jkFBGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274423674186:android:9eaeb235bd768052bc7db3",
+        "android_client_info": {
+          "package_name": "com.example.login_to_dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrOJ_bXCCMi_HyaHJWT-bl-F1jkFBGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274423674186:android:af7246e15ae1a505bc7db3",
+        "android_client_info": {
+          "package_name": "com.example.ordermovisa2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrOJ_bXCCMi_HyaHJWT-bl-F1jkFBGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274423674186-k4evakmsnaunj4n0bp4m086quunqn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
