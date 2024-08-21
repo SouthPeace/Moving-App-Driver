@@ -21,7 +21,7 @@ class _loginstate2 extends State<login2> {
   void login(String email , password) async {
     link_reg = "";
     try{
-      var url = "https://movingone.herokuapp.com/flutter_driver_login";
+      var url = "https://www.site.com/flutter_driver_login";
       final response = await http.post(
         // Uri.parse('https://jsonplaceholder.typicode.com/albums'),
         Uri.parse(url),
