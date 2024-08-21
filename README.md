@@ -24,4 +24,5 @@ Note: This version of the app is specifically designed for drivers to manage and
 
 Please also have a look in the 'media' folder for some screenshots of the app.
 
-[![Video Title](https://github.com/SouthPeace/Moving-App-Driver/tree/main/media/ConfirmOrder.png)](https://youtu.be/c-SMFXBvXJQ)
+Note: in the video the app on the left is the driver facing and the one on the right is user facing. this is a early prototype version of the app.
+[![Moving App demo]](https://youtu.be/c-SMFXBvXJQ)
