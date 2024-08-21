@@ -163,7 +163,7 @@ class _DashState extends State<dash> {
       final fcmToken = await FirebaseMessaging.instance.getToken();
   print("token : "+fcmToken.toString());
       print("driverid : "+driverid);
-      var url = "https://movingone.herokuapp.com/driver_firebase_set";
+      var url = "https://www.site.com/driver_firebase_set";
       final response = await http.post(
         Uri.parse(url),
         headers: <String, String>{
@@ -580,7 +580,7 @@ class _DashState extends State<dash> {
   void get_order_list(String email , password) async {
 
     try{
-      var url = "https://movingone.herokuapp.com/flutter_driver_order_list";
+      var url = "https://www.site.com/flutter_driver_order_list";
       final response = await http.post(
         Uri.parse(url),
         headers: <String, String>{
@@ -671,7 +671,7 @@ class _DashState extends State<dash> {
       //await Firebase.initializeApp();
       //final fcmToken = await FirebaseMessaging.instance.getToken();
       // print("token : "+fcmToken.toString());
-      var url = "https://movingone.herokuapp.com/driver_order_gets";
+      var url = "https://www.site.com/driver_order_gets";
       final response = await http.post(
         Uri.parse(url),
         headers: <String, String>{
@@ -739,7 +739,7 @@ class _DashState extends State<dash> {
   void accept_order(String driverid) async{
     try{
 
-      var url = "https://movingone.herokuapp.com/driver_order_accept";
+      var url = "https://www.site.com/driver_order_accept";
       final response = await http.post(
         Uri.parse(url),
         headers: <String, String>{
@@ -786,7 +786,7 @@ class _DashState extends State<dash> {
       //await Firebase.initializeApp();
       //final fcmToken = await FirebaseMessaging.instance.getToken();
       // print("token : "+fcmToken.toString());
-      var url = "https://movingone.herokuapp.com/driver_order_decline";
+      var url = "https://www.site.com/driver_order_decline";
       final response = await http.post(
         Uri.parse(url),
         headers: <String, String>{
@@ -918,7 +918,7 @@ class _DashState extends State<dash> {
   Future<void> initSocket() async {
     try{
       print('init done');
-      socket = IO.io('https://socketza.herokuapp.com/',<String, dynamic>{
+      socket = IO.io('https://www.site.com/',<String, dynamic>{
         'transports': ['websocket'],
         'autoConnect': true,
       },);
