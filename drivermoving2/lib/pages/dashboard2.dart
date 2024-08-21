@@ -52,8 +52,8 @@ class _Dash2State extends State<dash2> {
       //await Firebase.initializeApp();
       //final fcmToken = await FirebaseMessaging.instance.getToken();
       // print("token : "+fcmToken.toString());
-      var url = "https://movingone.herokuapp.com/driver_order_gets";
-      final response = await http.post(
+      var url = "https://www.site.com/driver_order_gets";
+      final response = await .post(
         Uri.parse(url),
         headers: <String, String>{
           'Content-Type': 'application/json; charset=UTF-8',
