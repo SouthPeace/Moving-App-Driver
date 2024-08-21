@@ -57,7 +57,7 @@ class _HomeState extends State<Home> {
   );
 
   Future<String> createAlbum3(String username, String email, String password) async {
-    var url = "https://movingone.herokuapp.com/flutter_driver_reg";
+    var url = "https://www.site.com/flutter_driver_reg";
     final response = await http.post(
       // Uri.parse('https://jsonplaceholder.typicode.com/albums'),
       Uri.parse(url),
